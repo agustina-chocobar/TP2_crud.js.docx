@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "title": "trabajo practico",
+      "completed": true,
+      "dueDate": "2026-06-18",
+      "id": "4ypPhzThgCw"
+    },
+    {
+      "title": "estudiar",
+      "completed": false,
+      "dueDate": "2026-06-25",
+      "id": "CTXKG2YGX_Y"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
